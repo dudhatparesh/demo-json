@@ -1,0 +1,54 @@
+{
+  "name": "Iliana",
+  "title": "Sr Android Developer",
+  "professional_summary": "Your Summary",
+  "technical_skills": [
+    "java",
+    "kotlin",
+    "tdd",
+    "RxJava",
+    "Retrofit",
+    "Firebase"
+  ],
+  "past_experience": [
+    {
+      "company_name": "My First Name",
+      "company_logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "role_name": "Jr Android Developer",
+      "date_from": "2017-06-05",
+      "date_to": "2018-01-01",
+      "main_responsibility": "My Responsibility was to develop and android app and maintain the core features. etc",
+      "achievements": [
+        "Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
+        "increased retention rate by adding notifications"
+      ],
+      
+    },
+    {
+      "company_name": "My 2nd  Name",
+      "company_logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "role_name": "Jr Android Developer",
+      "date_from": "2018-01-02",
+      "date_to": "2018-07-01",
+      "main_responsibility": "My Responsibility was to develop and android app and maintain the core features. etc",
+      "achievements": [
+        "Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
+        "increased retention rate by adding notifications"
+      ],
+      
+    },
+    {
+      "company_name": "My First Name",
+      "company_logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "role_name": "Jr Android Developer",
+      "date_from": "2017-06-05",
+      "date_to": "2018-01-01",
+      "main_responsibility": "My Responsibility was to develop and android app and maintain the core features. etc",
+      "achievements": [
+        "Improved stability of the app from 50 crashes a week to 1-2 crashes per week",
+        "increased retention rate by adding notifications"
+      ],
+      
+    }
+  ]
+}
